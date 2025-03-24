@@ -1,0 +1,11 @@
+user.email=105863020+Priyanshu-0301@users.noreply.github.com
+user.name=Priyanshu Chaurasiya
+core.autocrlf=true
+init.defaultbranch=main
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+safe.directory='*'
+safe.directory=/path/to/project
+safe.directory=C:/Users/HP/Desktop/Diffusion Labs
