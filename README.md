@@ -55,7 +55,7 @@ npm run dev
 
 ## License
 
-MIT
+Diffusion Labs ( Priyanshu Chaurasiya )
 
 ## Contributing
 
