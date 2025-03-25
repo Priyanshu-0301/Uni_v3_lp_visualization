@@ -4,7 +4,7 @@ import React from 'react';
 import TShape from '@/components/TShape';
 import PriceBar from '@/components/PriceBar';
 import SplitTShape from '@/components/SplitTShape';
-import ShapeSelector from '@/components/ShapeSelector';
+// import ShapeSelector from '@/components/ShapeSelector';
 
 const descriptions = {
   tshape: "How tick liquidity changes when price crosses a tick",
