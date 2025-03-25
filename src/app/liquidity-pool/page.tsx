@@ -1,5 +1,3 @@
-'use client';
-
 import React from 'react';
 import LiquidityPoolVisualizer from '@/components/LiquidityPoolVisualizer';
 
@@ -12,4 +10,4 @@ export default function LiquidityPoolPage() {
       <LiquidityPoolVisualizer />
     </div>
   );
-} 
+}
